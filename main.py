@@ -35,7 +35,5 @@ def godel_number(array):
     return encoding
 
 
-print(str(godel_number([35, 23])) + "\n")
-
-
-
+#Example use:
+#print(str(godel_number([35, 23])) + "\n")
