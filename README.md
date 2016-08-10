@@ -4,7 +4,6 @@
 
 ##What is Gödel numbering?
 You can learn more about Gödel numbering here:
-
 https://en.wikipedia.org/wiki/G%C3%B6del_numbering
 
 ##godel_number(array)
