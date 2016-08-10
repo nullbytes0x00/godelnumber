@@ -13,5 +13,5 @@ ASCII encoding, or any other sort of encoding).
 
 `godel_number([3, 5])`
 
-`godel_number([84, 69, 83, 84])` : generates the Gödel encoding of the decimal ASCII representation of the word "test"
+`godel_number([84, 69, 83, 84])` : generates the Gödel encoding of the decimal ASCII representation of the word "test".
 
