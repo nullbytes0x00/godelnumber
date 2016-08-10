@@ -1,4 +1,4 @@
-# godelnumber
+#godelnumber
 **godelnumber** is a basic and easy to use script which provides routines for generating Gödel numbering, also known as Gödel encoding.
 
 ##What is Gödel numbering?
